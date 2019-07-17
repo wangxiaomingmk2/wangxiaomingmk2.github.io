@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangxiaomingmk2.github.io/</id>
-    <title>欢迎来到Studio Stiletto</title>
-    <updated>2019-07-17T16:24:52.042Z</updated>
+    <title>欢迎来到西大街研习室Studio Stiletto</title>
+    <updated>2019-07-17T16:48:05.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangxiaomingmk2.github.io/"/>
     <link rel="self" href="https://wangxiaomingmk2.github.io//atom.xml"/>
     <logo>https://wangxiaomingmk2.github.io//images/avatar.png</logo>
     <icon>https://wangxiaomingmk2.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, 欢迎来到Studio Stiletto</rights>
+    <rights>All rights reserved 2019, 欢迎来到西大街研习室Studio Stiletto</rights>
     <entry>
         <title type="html"><![CDATA[大头]]></title>
         <id>https://wangxiaomingmk2.github.io//post/da-tou</id>
