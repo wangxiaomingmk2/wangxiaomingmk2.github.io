@@ -1,36 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>C:/Users/Kin/Documents/Gridea/output</id>
+    <id>https://wangxiaomingmk2.github.io/</id>
     <title>欢迎来到西大街研习室Studio Stiletto</title>
-    <updated>2019-08-13T13:14:07.033Z</updated>
+    <updated>2019-08-13T13:15:00.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="C:/Users/Kin/Documents/Gridea/output"/>
-    <link rel="self" href="C:/Users/Kin/Documents/Gridea/output/atom.xml"/>
-    <logo>C:/Users/Kin/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>C:/Users/Kin/Documents/Gridea/output/favicon.ico</icon>
+    <link rel="alternate" href="https://wangxiaomingmk2.github.io/"/>
+    <link rel="self" href="https://wangxiaomingmk2.github.io//atom.xml"/>
+    <logo>https://wangxiaomingmk2.github.io//images/avatar.png</logo>
+    <icon>https://wangxiaomingmk2.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 欢迎来到西大街研习室Studio Stiletto</rights>
     <entry>
         <title type="html"><![CDATA[谈一谈媒体平台之简书]]></title>
-        <id>C:/Users/Kin/Documents/Gridea/output/post/tan-yi-tan-mei-ti-ping-tai-zhi-jian-shu/index.html</id>
-        <link href="C:/Users/Kin/Documents/Gridea/output/post/tan-yi-tan-mei-ti-ping-tai-zhi-jian-shu/index.html">
+        <id>https://wangxiaomingmk2.github.io//post/tan-yi-tan-mei-ti-ping-tai-zhi-jian-shu</id>
+        <link href="https://wangxiaomingmk2.github.io//post/tan-yi-tan-mei-ti-ping-tai-zhi-jian-shu">
         </link>
         <updated>2019-08-13T12:53:19.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[大头]]></title>
-        <id>C:/Users/Kin/Documents/Gridea/output/post/da-tou/index.html</id>
-        <link href="C:/Users/Kin/Documents/Gridea/output/post/da-tou/index.html">
+        <id>https://wangxiaomingmk2.github.io//post/da-tou</id>
+        <link href="https://wangxiaomingmk2.github.io//post/da-tou">
         </link>
         <updated>2019-07-17T08:45:07.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>C:/Users/Kin/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="C:/Users/Kin/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>https://wangxiaomingmk2.github.io//post/hello-gridea</id>
+        <link href="https://wangxiaomingmk2.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></content>
+    </entry>
+</feed>
