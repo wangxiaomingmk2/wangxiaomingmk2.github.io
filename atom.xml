@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wangxiaomingmk2.github.io/</id>
-    <title>欢迎来到西大街研习室Studio Stiletto</title>
-    <updated>2019-08-13T13:19:47.938Z</updated>
+    <title>欢迎来到西大街研习室</title>
+    <updated>2019-08-16T16:20:33.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wangxiaomingmk2.github.io/"/>
     <link rel="self" href="https://wangxiaomingmk2.github.io//atom.xml"/>
+    <subtitle>咖喱该给&lt;/br&gt;
+咖喱该给
+咖喱该给
+咖喱该给</subtitle>
     <logo>https://wangxiaomingmk2.github.io//images/avatar.png</logo>
     <icon>https://wangxiaomingmk2.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, 欢迎来到西大街研习室Studio Stiletto</rights>
+    <rights>All rights reserved 2019, 欢迎来到西大街研习室</rights>
     <entry>
         <title type="html"><![CDATA[谈一谈媒体平台之简书]]></title>
         <id>https://wangxiaomingmk2.github.io//post/tan-yi-tan-mei-ti-ping-tai-zhi-jian-shu</id>
